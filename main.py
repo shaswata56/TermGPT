@@ -1,3 +1,4 @@
+#!/bin/python
 import os
 import openai
 from pathlib import Path
@@ -21,5 +22,5 @@ while prompt != 'exit':
                 'role': 'user', 
                 'content': prompt
             }])
-    print('\nAI: ', chat.choices[0].message.content)
-    prompt = input('\nUser: ')
+    print('\nTermGPT: ', chat.choices[0].message.content)
+    prompt = input('\n'+os.getlogin()+': ')
