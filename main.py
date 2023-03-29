@@ -1,4 +1,3 @@
-
 import os
 import openai
 from pathlib import Path
