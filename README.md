@@ -1,7 +1,7 @@
 # TermGPT
 ChatGPT in terminal.
 
-![TermGPT](https://i.postimg.cc/RhfxPwy9/Screenshot-from-2023-03-30-00-34-39.png)
+![TermGPT](https://i.postimg.cc/cJvcpWM1/Screenshot-from-2023-03-30-01-53-09.png)
 
 ## Usage
 Populate your `personal_openai.env` file by your OpenAI Organization and API Key like this:
